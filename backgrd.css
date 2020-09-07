@@ -1,0 +1,26 @@
+body{
+	background: linear-gradient(to right, red, yellow);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .8px;
+	top: 15%;
+	/*font-family: 'pacifico', sans-serif;*/
+	font-family: 'Raleway',sans-serif;
+	color: rgba(0,0,0,.5);
+}
+
+h3{
+	
+	text-align: center;
+	text-transform: none;
+	font-family: 'Raleway',sans-serif;
+	letter-spacing: .3px;
+	color: rgba(0,0,0,.5);
+
+
+}
+
+h2{
+	
+}
+
